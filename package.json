@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "svg-to-png",
-  "title": "SVG to PNG Converter",
+  "title": "Svg to Png Converter",
   "description": "Convert SVG files to PNG format with customizable scale options. Supports file path input and disk search.",
   "icon": "svg-to-png-green-icon.png",
   "author": "plutotom",
@@ -20,7 +20,7 @@
     },
     {
       "name": "typeahead-svg-to-png",
-      "title": "Search and Convert SVG",
+      "title": "Search and Convert Svg",
       "description": "Search for SVG files on your disk and convert them to PNG",
       "mode": "view"
     }
